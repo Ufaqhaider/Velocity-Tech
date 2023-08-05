@@ -45,10 +45,11 @@
     /* text-decoration: aqua; */
     /* background-color: aqua; */
     text-decoration: solid;
-    font-weight: 700;
+    font-weight: 500;
 }
-.nav-item:hover::backdrop {
+.nav-link:hover{
     font-weight: bold;
+    
 }
 .navbar { 
     position: fixed; 

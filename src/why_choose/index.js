@@ -26,7 +26,7 @@ const Service = () => {
         </h2>
         <div class=" card-group  w-layout-grid grid-feature snipcss0-3-3-6">
           <div
-          data-aos="zoom-in-right" data-aos-delay="1000"
+          data-aos="zoom-in-right" data-aos-delay="700"
             data-w-id="Div Block 3"
             class="card p-2 rounded shadow link-offset-3-hover feature snipcss0-4-6-7 style-zjmXD"
             // id="style-zjmXD"
@@ -42,7 +42,7 @@ const Service = () => {
             </p>
           </div>
           <div
-          data-aos="zoom-in-right" data-aos-delay="1000"
+          data-aos="zoom-in-right" data-aos-delay="700"
             data-w-id="7ff82385-63af-97e4-0df9-20a52258e593"
             class=" card p-2 rounded shadow feature snipcss0-4-6-12 style-54Fir"
             // id="style-54Fir"
@@ -60,7 +60,7 @@ const Service = () => {
             </p>
           </div>
           <div
-          data-aos="zoom-in-right" data-aos-delay="1000"
+          data-aos="zoom-in-right" data-aos-delay="700"
             data-w-id="b24198d2-60fb-b52c-8736-dd0afc0f60da"
             class=" card p-2 rounded shadow feature snipcss0-4-6-17 style-BHG1z"
             // id="style-BHG1z"

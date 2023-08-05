@@ -2,6 +2,7 @@
 body {
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none; /* Internet Explorer and Edge */
+    overflow-x: hidden;
   }
   
   /* Create a custom scrollbar */
@@ -14,7 +15,8 @@ body {
   }
   
   body::-webkit-scrollbar-thumb {
-    background: #ff9101; /* Scrollbar thumb color */
+    /* background: #ff9101; */
+    background: #ee6700; /* Scrollbar thumb color */
   }
   
   body::-webkit-scrollbar-thumb:hover {

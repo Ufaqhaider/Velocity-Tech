@@ -28,8 +28,6 @@ function App() {
       <About/>
       <OurServices/>
       <Contact_Us/>
-      <Footer/>
-      {/* <Footer/> */}
     </div>
     </>
   );

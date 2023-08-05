@@ -48,7 +48,7 @@ const About = () => {
             class="img-arrow---1 snipcss0-4-37-45"
           />
           <div
-          data-aos="fade-down-right" data-aos-delay="1000"
+          data-aos="fade-down-right" data-aos-delay="600"
             data-w-id="5939fced-061f-0f25-e75e-7a91559b0cd7"
             class="sequence snipcss0-4-37-46 "
             // id="style-VPfx6"

@@ -12,7 +12,6 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg bg-white">
       <div className="container-fluid">
         <Link to="home" spy={true} smooth={true} offset={-110} duration={100}>
-          {/* <a className="navbar-brand">🌟 VelcoityTech</a> */}
           <img src={`${process.env.PUBLIC_URL}/images/logo.png`} style={{width:'250px', height:'50px'}} alt="Company Logo" />
         </Link>
 
@@ -41,7 +40,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item  ">
               <Link to="contact" spy={true} smooth={true} offset={-110} duration={100}>
-                <a className="nav-link">ContactUs</a>
+                <a className="nav-link">Contact us</a>
               </Link>
             </li>
           </ul>

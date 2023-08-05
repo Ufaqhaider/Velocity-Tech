@@ -1,5 +1,6 @@
 import React from "react";
 import "./home.css";
+import { Link } from "react-scroll";
 
 const Home = () => {
   return (
@@ -49,12 +50,14 @@ const Home = () => {
                 id="Email"
                 required=""
               /> */}
-              <input
+              <Link to="contact" spy={true} smooth={true} offset={-110} duration={100}>
+                <input
                 type="submit"
                 data-wait="Please wait..."
                 value="Know More"
                 class="submit-button-white herobtn w-button snipcss0-4-8-10"
               />
+              </Link>
             </form>
             <div class="success-message1 w-form-done snipcss0-3-6-11">
               <div class="success-text snipcss0-4-11-12">
